@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nirav9024
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Machine Learining
+- 
